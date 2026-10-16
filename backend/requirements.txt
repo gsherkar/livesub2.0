@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+websockets
+deep-translator
+python-dotenv
+python-multipart
+faster-whisper

@@ -1,0 +1,2 @@
+cd D:\LiveSub\backend
+http://127.0.0.1:8000/docs?utm_source=chatgpt.com#/default/transcribe_file_transcribe_file_post

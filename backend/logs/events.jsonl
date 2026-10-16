@@ -1,0 +1,157 @@
+{"logged_at": "2026-10-16T21:46:26.931710+00:00", "type": "transcription", "status": "success", "latency_ms": 6121.13, "segment_count": 1}
+{"logged_at": "2026-10-16T21:46:29.266130+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:46:35.270989+00:00", "type": "transcription", "status": "success", "latency_ms": 5991.96, "segment_count": 1}
+{"logged_at": "2026-10-16T21:46:38.099254+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:46:56.091015+00:00", "type": "transcription", "status": "success", "latency_ms": 5834.75, "segment_count": 1}
+{"logged_at": "2026-10-16T21:54:42.334734+00:00", "type": "transcription", "status": "success", "latency_ms": 6007.49, "segment_count": 1}
+{"logged_at": "2026-10-16T21:56:10.764587+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:56:13.804544+00:00", "type": "transcription", "status": "success", "latency_ms": 3020.94, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:16.686018+00:00", "type": "transcription", "status": "success", "latency_ms": 2869.85, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:19.638109+00:00", "type": "transcription", "status": "success", "latency_ms": 2940.78, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:22.563734+00:00", "type": "transcription", "status": "success", "latency_ms": 2907.61, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:25.504272+00:00", "type": "transcription", "status": "success", "latency_ms": 2928.89, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:28.453420+00:00", "type": "transcription", "status": "success", "latency_ms": 2937.81, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:31.387865+00:00", "type": "transcription", "status": "success", "latency_ms": 2917.05, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:34.219707+00:00", "type": "transcription", "status": "success", "latency_ms": 2815.56, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:36.638851+00:00", "type": "transcription", "status": "success", "latency_ms": 2407.73, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:39.551296+00:00", "type": "transcription", "status": "success", "latency_ms": 2901.0, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:41.958085+00:00", "type": "transcription", "status": "success", "latency_ms": 2394.84, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:44.323265+00:00", "type": "transcription", "status": "success", "latency_ms": 1366.04, "segment_count": 0}
+{"logged_at": "2026-10-16T21:56:51.787942+00:00", "type": "transcription", "status": "success", "latency_ms": 2912.44, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:03.471162+00:00", "type": "transcription", "status": "success", "latency_ms": 5916.52, "segment_count": 1}
+{"logged_at": "2026-10-16T21:57:06.872250+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:57:12.800980+00:00", "type": "transcription", "status": "success", "latency_ms": 5903.66, "segment_count": 2}
+{"logged_at": "2026-10-16T21:57:16.436081+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:57:21.665825+00:00", "type": "transcription", "status": "success", "latency_ms": 5204.05, "segment_count": 3}
+{"logged_at": "2026-10-16T21:57:24.285813+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:57:27.108260+00:00", "type": "transcription", "status": "success", "latency_ms": 2807.2, "segment_count": 1}
+{"logged_at": "2026-10-16T21:57:29.661525+00:00", "type": "translation", "status": "error", "error": "TooManyRequests()"}
+{"logged_at": "2026-10-16T21:57:31.092493+00:00", "type": "transcription", "status": "success", "latency_ms": 1399.79, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:32.503181+00:00", "type": "transcription", "status": "success", "latency_ms": 1399.13, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:33.875538+00:00", "type": "transcription", "status": "success", "latency_ms": 1353.4, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:35.314830+00:00", "type": "transcription", "status": "success", "latency_ms": 1426.71, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:39.246577+00:00", "type": "transcription", "status": "success", "latency_ms": 1408.52, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:46.111578+00:00", "type": "transcription", "status": "success", "latency_ms": 1577.76, "segment_count": 0}
+{"logged_at": "2026-10-16T21:57:54.935379+00:00", "type": "transcription", "status": "success", "latency_ms": 2916.02, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:02.517136+00:00", "type": "transcription", "status": "success", "latency_ms": 2883.55, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:10.212052+00:00", "type": "transcription", "status": "success", "latency_ms": 2938.29, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:17.660574+00:00", "type": "transcription", "status": "success", "latency_ms": 2891.02, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:25.224513+00:00", "type": "transcription", "status": "success", "latency_ms": 2952.06, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:32.985672+00:00", "type": "transcription", "status": "success", "latency_ms": 2957.13, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:40.484902+00:00", "type": "transcription", "status": "success", "latency_ms": 2990.08, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:47.908986+00:00", "type": "transcription", "status": "success", "latency_ms": 2979.36, "segment_count": 0}
+{"logged_at": "2026-10-16T21:58:55.287835+00:00", "type": "transcription", "status": "success", "latency_ms": 2947.03, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:02.934783+00:00", "type": "transcription", "status": "success", "latency_ms": 3008.64, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:10.527648+00:00", "type": "transcription", "status": "success", "latency_ms": 3000.52, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:16.492234+00:00", "type": "transcription", "status": "success", "latency_ms": 1389.4, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:25.186239+00:00", "type": "transcription", "status": "success", "latency_ms": 2579.41, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:33.030485+00:00", "type": "transcription", "status": "success", "latency_ms": 2980.03, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:39.544237+00:00", "type": "transcription", "status": "success", "latency_ms": 1727.98, "segment_count": 0}
+{"logged_at": "2026-10-16T21:59:55.270522+00:00", "type": "transcription", "status": "success", "latency_ms": 2966.74, "segment_count": 0}
+{"logged_at": "2026-10-16T22:00:00.182635+00:00", "type": "transcription", "status": "success", "latency_ms": 2852.06, "segment_count": 0}
+{"logged_at": "2026-10-16T22:00:40.724516+00:00", "type": "transcription", "status": "success", "latency_ms": 5949.58, "segment_count": 1}
+{"logged_at": "2026-10-16T22:00:44.524709+00:00", "type": "translation", "latency_ms": 3793.81, "status": "success"}
+{"logged_at": "2026-10-16T22:00:50.267260+00:00", "type": "transcription", "status": "success", "latency_ms": 5731.06, "segment_count": 1}
+{"logged_at": "2026-10-16T22:00:52.971631+00:00", "type": "translation", "latency_ms": 2699.2, "status": "success"}
+{"logged_at": "2026-10-16T22:00:58.789342+00:00", "type": "transcription", "status": "success", "latency_ms": 5784.49, "segment_count": 1}
+{"logged_at": "2026-10-16T22:01:00.857204+00:00", "type": "translation", "latency_ms": 2061.71, "status": "success"}
+{"logged_at": "2026-10-16T22:01:06.841299+00:00", "type": "transcription", "status": "success", "latency_ms": 5962.6, "segment_count": 2}
+{"logged_at": "2026-10-16T22:01:08.953512+00:00", "type": "translation", "latency_ms": 2105.83, "status": "success"}
+{"logged_at": "2026-10-16T22:01:14.906056+00:00", "type": "transcription", "status": "success", "latency_ms": 5929.42, "segment_count": 2}
+{"logged_at": "2026-10-16T22:01:16.981705+00:00", "type": "translation", "latency_ms": 2069.23, "status": "success"}
+{"logged_at": "2026-10-16T22:01:22.797173+00:00", "type": "transcription", "status": "success", "latency_ms": 5802.56, "segment_count": 1}
+{"logged_at": "2026-10-16T22:01:25.430345+00:00", "type": "translation", "latency_ms": 2628.29, "status": "success"}
+{"logged_at": "2026-10-16T22:01:31.251309+00:00", "type": "transcription", "status": "success", "latency_ms": 5808.41, "segment_count": 1}
+{"logged_at": "2026-10-16T22:01:33.006212+00:00", "type": "translation", "latency_ms": 1749.22, "status": "success"}
+{"logged_at": "2026-10-16T22:01:38.783746+00:00", "type": "transcription", "status": "success", "latency_ms": 5759.02, "segment_count": 1}
+{"logged_at": "2026-10-16T22:01:40.592221+00:00", "type": "translation", "latency_ms": 1801.78, "status": "success"}
+{"logged_at": "2026-10-16T22:01:46.470201+00:00", "type": "transcription", "status": "success", "latency_ms": 5859.54, "segment_count": 2}
+{"logged_at": "2026-10-16T22:01:49.753557+00:00", "type": "translation", "latency_ms": 3277.7, "status": "success"}
+{"logged_at": "2026-10-16T22:01:55.558504+00:00", "type": "transcription", "status": "success", "latency_ms": 5789.05, "segment_count": 1}
+{"logged_at": "2026-10-16T22:01:57.197417+00:00", "type": "translation", "latency_ms": 1631.9, "status": "success"}
+{"logged_at": "2026-10-16T22:02:03.152542+00:00", "type": "transcription", "status": "success", "latency_ms": 5933.4, "segment_count": 3}
+{"logged_at": "2026-10-16T22:02:05.078586+00:00", "type": "translation", "latency_ms": 1918.31, "status": "success"}
+{"logged_at": "2026-10-16T22:02:10.959168+00:00", "type": "transcription", "status": "success", "latency_ms": 5865.68, "segment_count": 1}
+{"logged_at": "2026-10-16T22:02:12.699730+00:00", "type": "translation", "latency_ms": 1732.83, "status": "success"}
+{"logged_at": "2026-10-16T22:02:18.518357+00:00", "type": "transcription", "status": "success", "latency_ms": 5793.98, "segment_count": 1}
+{"logged_at": "2026-10-16T22:02:20.427125+00:00", "type": "translation", "latency_ms": 1902.64, "status": "success"}
+{"logged_at": "2026-10-16T22:02:26.370135+00:00", "type": "transcription", "status": "success", "latency_ms": 5914.6, "segment_count": 1}
+{"logged_at": "2026-10-16T22:02:28.520685+00:00", "type": "translation", "latency_ms": 2143.86, "status": "success"}
+{"logged_at": "2026-10-16T22:02:34.488348+00:00", "type": "transcription", "status": "success", "latency_ms": 5941.99, "segment_count": 2}
+{"logged_at": "2026-10-16T22:02:36.517989+00:00", "type": "translation", "latency_ms": 2022.74, "status": "success"}
+{"logged_at": "2026-10-16T22:02:42.417879+00:00", "type": "transcription", "status": "success", "latency_ms": 5872.6, "segment_count": 1}
+{"logged_at": "2026-10-16T22:02:44.688660+00:00", "type": "translation", "latency_ms": 2264.1, "status": "success"}
+{"logged_at": "2026-10-16T22:02:50.548877+00:00", "type": "transcription", "status": "success", "latency_ms": 5827.25, "segment_count": 1}
+{"logged_at": "2026-10-16T22:02:53.400756+00:00", "type": "translation", "latency_ms": 2845.07, "status": "success"}
+{"logged_at": "2026-10-16T22:02:56.334831+00:00", "type": "transcription", "status": "success", "latency_ms": 2908.97, "segment_count": 0}
+{"logged_at": "2026-10-16T22:02:59.208024+00:00", "type": "transcription", "status": "success", "latency_ms": 2862.91, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:02.129032+00:00", "type": "transcription", "status": "success", "latency_ms": 2908.98, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:05.035746+00:00", "type": "transcription", "status": "success", "latency_ms": 2897.28, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:07.940898+00:00", "type": "transcription", "status": "success", "latency_ms": 2893.73, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:10.909125+00:00", "type": "transcription", "status": "success", "latency_ms": 2956.41, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:13.841631+00:00", "type": "transcription", "status": "success", "latency_ms": 2921.41, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:16.792336+00:00", "type": "transcription", "status": "success", "latency_ms": 2938.09, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:19.685392+00:00", "type": "transcription", "status": "success", "latency_ms": 2875.57, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:22.636036+00:00", "type": "transcription", "status": "success", "latency_ms": 2933.98, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:25.607534+00:00", "type": "transcription", "status": "success", "latency_ms": 2953.93, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:28.576530+00:00", "type": "transcription", "status": "success", "latency_ms": 2951.71, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:34.937574+00:00", "type": "transcription", "status": "success", "latency_ms": 2876.27, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:42.613844+00:00", "type": "transcription", "status": "success", "latency_ms": 2960.5, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:50.294233+00:00", "type": "transcription", "status": "success", "latency_ms": 2938.53, "segment_count": 0}
+{"logged_at": "2026-10-16T22:03:57.919620+00:00", "type": "transcription", "status": "success", "latency_ms": 2989.9, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:05.553455+00:00", "type": "transcription", "status": "success", "latency_ms": 2959.34, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:13.025758+00:00", "type": "transcription", "status": "success", "latency_ms": 2914.34, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:20.696943+00:00", "type": "transcription", "status": "success", "latency_ms": 2862.66, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:28.243883+00:00", "type": "transcription", "status": "success", "latency_ms": 2912.42, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:35.849943+00:00", "type": "transcription", "status": "success", "latency_ms": 2974.67, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:43.208206+00:00", "type": "transcription", "status": "success", "latency_ms": 2738.68, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:50.151944+00:00", "type": "transcription", "status": "success", "latency_ms": 2300.99, "segment_count": 0}
+{"logged_at": "2026-10-16T22:04:58.359892+00:00", "type": "transcription", "status": "success", "latency_ms": 2931.15, "segment_count": 0}
+{"logged_at": "2026-10-16T22:05:05.991451+00:00", "type": "transcription", "status": "success", "latency_ms": 2978.24, "segment_count": 0}
+{"logged_at": "2026-10-16T22:05:13.707850+00:00", "type": "transcription", "status": "success", "latency_ms": 3075.27, "segment_count": 0}
+{"logged_at": "2026-10-16T22:05:21.020300+00:00", "type": "transcription", "status": "success", "latency_ms": 2826.59, "segment_count": 0}
+{"logged_at": "2026-10-16T22:05:28.603944+00:00", "type": "transcription", "status": "success", "latency_ms": 3040.53, "segment_count": 0}
+{"logged_at": "2026-10-16T22:05:39.249363+00:00", "type": "transcription", "status": "success", "latency_ms": 5752.46, "segment_count": 0}
+{"logged_at": "2026-10-16T22:11:47.052345+00:00", "type": "transcription", "status": "success", "latency_ms": 2090.14, "segment_count": 0}
+{"logged_at": "2026-10-16T22:11:54.865603+00:00", "type": "transcription", "status": "success", "latency_ms": 2959.78, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:02.501981+00:00", "type": "transcription", "status": "success", "latency_ms": 2935.44, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:09.269496+00:00", "type": "transcription", "status": "success", "latency_ms": 2183.53, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:16.047458+00:00", "type": "transcription", "status": "success", "latency_ms": 1400.8, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:23.621007+00:00", "type": "transcription", "status": "success", "latency_ms": 1425.3, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:31.151657+00:00", "type": "transcription", "status": "success", "latency_ms": 1369.05, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:38.908036+00:00", "type": "transcription", "status": "success", "latency_ms": 1415.76, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:48.009712+00:00", "type": "transcription", "status": "success", "latency_ms": 2914.92, "segment_count": 0}
+{"logged_at": "2026-10-16T22:12:54.821537+00:00", "type": "transcription", "status": "success", "latency_ms": 2150.2, "segment_count": 0}
+{"logged_at": "2026-10-16T22:49:27.143979+00:00", "type": "transcription", "status": "success", "latency_ms": 5496.25, "segment_count": 0}
+{"logged_at": "2026-10-16T22:49:45.965536+00:00", "type": "transcription", "status": "success", "latency_ms": 5923.83, "segment_count": 1}
+{"logged_at": "2026-10-16T22:49:49.556994+00:00", "type": "translation", "latency_ms": 3582.6, "status": "success"}
+{"logged_at": "2026-10-16T22:49:55.498554+00:00", "type": "transcription", "status": "success", "latency_ms": 5920.19, "segment_count": 2}
+{"logged_at": "2026-10-16T22:49:57.492280+00:00", "type": "translation", "latency_ms": 1986.13, "status": "success"}
+{"logged_at": "2026-10-16T22:50:03.501669+00:00", "type": "transcription", "status": "success", "latency_ms": 5994.94, "segment_count": 2}
+{"logged_at": "2026-10-16T22:50:05.459370+00:00", "type": "translation", "latency_ms": 1950.55, "status": "success"}
+{"logged_at": "2026-10-16T22:50:11.637511+00:00", "type": "transcription", "status": "success", "latency_ms": 6150.71, "segment_count": 4}
+{"logged_at": "2026-10-16T22:50:13.980921+00:00", "type": "translation", "latency_ms": 2338.15, "status": "success"}
+{"logged_at": "2026-10-16T22:50:20.092171+00:00", "type": "transcription", "status": "success", "latency_ms": 6095.17, "segment_count": 2}
+{"logged_at": "2026-10-16T22:50:21.968667+00:00", "type": "translation", "latency_ms": 1869.81, "status": "success"}
+{"logged_at": "2026-10-16T22:50:27.882400+00:00", "type": "transcription", "status": "success", "latency_ms": 5895.26, "segment_count": 1}
+{"logged_at": "2026-10-16T22:50:30.162487+00:00", "type": "translation", "latency_ms": 2273.66, "status": "success"}
+{"logged_at": "2026-10-16T22:50:36.024941+00:00", "type": "transcription", "status": "success", "latency_ms": 5838.2, "segment_count": 2}
+{"logged_at": "2026-10-16T22:50:37.923505+00:00", "type": "translation", "latency_ms": 1890.94, "status": "success"}
+{"logged_at": "2026-10-16T22:50:43.649790+00:00", "type": "transcription", "status": "success", "latency_ms": 5709.32, "segment_count": 2}
+{"logged_at": "2026-10-16T22:50:45.279089+00:00", "type": "translation", "latency_ms": 1621.53, "status": "success"}
+{"logged_at": "2026-10-16T22:50:51.143090+00:00", "type": "transcription", "status": "success", "latency_ms": 5844.05, "segment_count": 1}
+{"logged_at": "2026-10-16T22:50:55.141769+00:00", "type": "translation", "latency_ms": 3991.55, "status": "success"}
+{"logged_at": "2026-10-16T22:51:01.103845+00:00", "type": "transcription", "status": "success", "latency_ms": 5948.26, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:03.093405+00:00", "type": "translation", "latency_ms": 1983.37, "status": "success"}
+{"logged_at": "2026-10-16T22:51:09.040366+00:00", "type": "transcription", "status": "success", "latency_ms": 5920.16, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:19.358866+00:00", "type": "transcription", "status": "success", "latency_ms": 5850.03, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:21.458315+00:00", "type": "translation", "latency_ms": 2091.83, "status": "success"}
+{"logged_at": "2026-10-16T22:51:27.424992+00:00", "type": "transcription", "status": "success", "latency_ms": 5940.96, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:29.864157+00:00", "type": "translation", "latency_ms": 2432.62, "status": "success"}
+{"logged_at": "2026-10-16T22:51:35.961705+00:00", "type": "transcription", "status": "success", "latency_ms": 6069.4, "segment_count": 2}
+{"logged_at": "2026-10-16T22:51:38.116439+00:00", "type": "translation", "latency_ms": 2147.25, "status": "success"}
+{"logged_at": "2026-10-16T22:51:44.052803+00:00", "type": "transcription", "status": "success", "latency_ms": 5907.71, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:45.818276+00:00", "type": "translation", "latency_ms": 1753.9, "status": "success"}
+{"logged_at": "2026-10-16T22:51:51.695299+00:00", "type": "transcription", "status": "success", "latency_ms": 5861.5, "segment_count": 1}
+{"logged_at": "2026-10-16T22:51:53.394544+00:00", "type": "translation", "latency_ms": 1692.27, "status": "success"}
+{"logged_at": "2026-10-16T22:51:59.546398+00:00", "type": "transcription", "status": "success", "latency_ms": 6125.15, "segment_count": 1}

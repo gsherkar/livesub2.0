@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LiveSub</title>
+  <style>
+    body {
+      width: 300px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background: #111827;
+      color: white;
+    }
+
+    h1 {
+      color: #60a5fa;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 10px;
+      border: none;
+      border-radius: 8px;
+      background: #2563eb;
+      color: white;
+      cursor: pointer;
+    }
+
+    select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 8px;
+      border-radius: 6px;
+    }
+
+    #status {
+      color: #86efac;
+    }
+  </style>
+</head>
+<body>
+  <h1>LiveSub</h1>
+  <p>Understand videos in your language.</p>
+
+  <label for="language">Subtitle language</label>
+  <select id="language">
+    <option value="hi">Hindi</option>
+    <option value="mr">Marathi</option>
+    <option value="en">English</option>
+  </select>
+
+  <button id="start">Start LiveSub</button>
+  <hr>
+
+<label for="sourceLanguage">Speech recognition language</label>
+<select id="sourceLanguage">
+  <option value="en-IN">English (India)</option>
+  <option value="hi-IN">Hindi</option>
+  <option value="mr-IN">Marathi</option>
+</select>
+
+<button id="testSpeech">Test Speech Recognition</button>
+
+<p id="transcript">Your recognized words will appear here.</p>
+  <p id="status">Ready to start</p>
+
+  <script src="popup.js"></script>
+</body>
+</html>
