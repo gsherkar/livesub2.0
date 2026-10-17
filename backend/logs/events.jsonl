@@ -155,3 +155,320 @@
 {"logged_at": "2026-10-16T22:51:51.695299+00:00", "type": "transcription", "status": "success", "latency_ms": 5861.5, "segment_count": 1}
 {"logged_at": "2026-10-16T22:51:53.394544+00:00", "type": "translation", "latency_ms": 1692.27, "status": "success"}
 {"logged_at": "2026-10-16T22:51:59.546398+00:00", "type": "transcription", "status": "success", "latency_ms": 6125.15, "segment_count": 1}
+{"logged_at": "2026-10-16T23:45:40.669604+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:45:45.694764+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:45:50.727871+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:45:55.757748+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:00.798241+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:05.830592+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:10.878742+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:15.920188+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:20.959483+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:26.001752+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:31.030181+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:36.067485+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:41.098908+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:46.132724+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:51.169709+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:46:56.210904+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:03.481491+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:08.519105+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:13.561112+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:18.590913+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:23.640715+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:28.670745+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:33.710203+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:38.739829+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:43.778522+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:48.809360+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:53.861944+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:47:58.901871+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:03.941536+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:08.980233+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:16.389390+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:21.419215+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:26.460155+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:31.489253+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:36.528654+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:41.561213+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:46.599721+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:51.631649+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:48:56.672649+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:01.703944+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:06.744458+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:11.802238+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:16.835572+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:21.864182+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:27.254835+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:34.268157+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:41.258280+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:47.735853+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:52.783373+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:49:57.839716+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:50:02.878231+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:50:09.333683+00:00", "type": "transcription", "status": "error", "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"}
+{"logged_at": "2026-10-16T23:51:34.276574+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:51:38.449323+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:51:44.947132+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:51:49.986214+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:51:55.032842+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:00.088954+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:05.815739+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:12.161189+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:17.199044+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:22.250606+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:28.742171+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:34.807152+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:40.691004+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:46.647153+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:51.757375+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:52:58.046325+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:04.770555+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:11.422247+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:17.962258+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:24.612317+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:31.399423+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:37.605429+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:42.641985+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:47.959061+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:52.999070+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:53:58.028647+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:03.068564+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:08.112266+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:13.138841+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:18.181100+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:23.208544+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:28.246997+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:33.278797+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:38.319722+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:43.357373+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:48.387622+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:53.426464+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:54:58.459552+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:03.498694+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:08.528567+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:13.566332+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:19.913238+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:26.160681+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:31.197874+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:36.232415+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:41.271851+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:46.321062+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:51.376734+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:55:57.457468+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:04.173105+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:10.852107+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:17.683527+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:23.039140+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:28.262212+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:33.298407+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:38.321645+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:43.361411+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:48.391919+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:53.430947+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:56:59.372983+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:06.143973+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:13.049227+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:19.947312+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:26.646449+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:33.458860+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:38.879468+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:43.920180+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:48.974000+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:54.000469+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:57:59.052118+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:04.086231+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:09.129797+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:14.173986+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:19.225667+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:24.274084+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:29.310415+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:34.345860+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:39.392127+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:44.439604+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:49.476969+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:54.518931+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:58:59.560973+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:04.598382+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:09.640869+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:14.677715+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:19.734216+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:24.789333+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:29.824730+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:34.868776+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:39.910475+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:44.948568+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:49.990477+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-16T23:59:55.021318+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:00.058489+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:05.101667+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:10.126655+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:15.173509+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:20.473645+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:25.509447+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:30.547858+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:36.813117+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:40.617451+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:49.151450+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:00:50.698335+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:00.320632+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:00.785404+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:05.846417+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:10.892432+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:15.934117+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:20.971410+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:26.011880+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:31.045641+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:36.087164+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:41.152543+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:46.191292+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:51.230019+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:01:56.269831+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:01.306560+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:06.343261+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:11.389899+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:16.441515+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:21.528148+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:26.570413+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:31.609667+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:36.648705+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:41.684750+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:47.367382+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:51.809876+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:02:56.845974+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:01.881259+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:06.914608+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:11.957800+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:16.998346+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:22.039994+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:27.078003+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:32.548784+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:37.603156+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:42.634093+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:47.684779+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:52.751648+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:03:57.774305+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:02.819308+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:07.860039+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:12.897864+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:17.937172+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:22.987137+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:28.031436+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:33.069157+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:38.115913+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:43.150748+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:48.189574+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:53.264388+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:04:58.305097+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:03.333552+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:08.380461+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:13.419253+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:18.454524+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:23.502034+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:28.533050+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:33.570099+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:38.620390+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:43.662222+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:48.692437+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:53.779820+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:05:58.817318+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:03.847998+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:08.891553+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:13.924109+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:18.963095+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:24.046722+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:29.094539+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:34.126245+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:39.173412+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:44.192266+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:49.238591+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:54.277627+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:06:59.331477+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:04.384656+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:09.414745+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:14.452243+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:19.488428+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:24.533754+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:29.570739+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:34.613878+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:39.642878+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:44.682171+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:49.732176+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:54.824237+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:07:59.866837+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:04.903189+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:09.945388+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:14.982037+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:20.028491+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:25.055913+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:30.099075+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:35.138536+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:40.170074+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:45.220530+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:50.260840+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:08:55.299032+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:00.383418+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:05.421514+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:10.474185+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:15.499530+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:20.553181+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:25.604548+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:30.801434+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:35.846799+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:40.872372+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:45.911780+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:50.937371+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:09:55.981126+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:01.371361+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:06.412315+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:11.450616+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:16.492970+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:21.527535+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:26.556476+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:31.654036+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:36.691363+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:41.722070+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:46.758261+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:10:53.200453+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:00.703257+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:06.232019+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:11.280533+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:16.325504+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:21.358747+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:26.402325+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:33.487248+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:40.896103+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:48.408623+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:11:55.922488+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:03.381594+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:10.781867+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:18.247514+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:25.702759+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:33.192401+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:40.790186+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:48.385858+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:12:55.987467+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:03.610184+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:10.948316+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:18.427052+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:25.910854+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:33.322588+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:40.641352+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:48.165068+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:13:55.590988+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:03.112502+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:10.638238+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:18.019607+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:25.695736+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:33.252222+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:40.899023+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:48.417473+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:14:55.482429+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:02.824585+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:10.232019+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:15.469857+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:20.516699+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:25.587153+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:30.624093+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:35.659649+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
+{"logged_at": "2026-10-17T00:15:40.698487+00:00", "type": "transcription", "status": "error", "error": "TypeError(\"open() got an unexpected keyword argument 'metadata_errors'\")"}
